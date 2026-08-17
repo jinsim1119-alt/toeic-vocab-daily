@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "word": "negotiate",
+    "meaning_ko": "협상하다",
+    "sentence_en": "The sales team will negotiate the final terms before the supplier signs the agreement.",
+    "sentence_ko": "영업팀은 공급업체가 계약에 서명하기 전에 최종 조건을 협상할 예정입니다.",
+    "category": "contract",
+    "difficulty": "high"
+  },
+  {
+    "id": 2,
+    "word": "proposal",
+    "meaning_ko": "제안서",
+    "sentence_en": "The proposal highlighted cost savings, timeline improvements, and stronger customer support.",
+    "sentence_ko": "제안서는 비용 절감, 일정 개선, 그리고 강화된 고객 지원을 강조했습니다.",
+    "category": "business",
+    "difficulty": "medium"
+  },
+  {
+    "id": 3,
+    "word": "stakeholder",
+    "meaning_ko": "이해관계자",
+    "sentence_en": "Each stakeholder shared concerns about delivery timing and the project budget during the review meeting.",
+    "sentence_ko": "각 이해관계자는 검토 회의에서 납기 일정과 프로젝트 예산에 대한 우려를 공유했습니다.",
+    "category": "meeting",
+    "difficulty": "high"
+  },
+  {
+    "id": 4,
+    "word": "benchmark",
+    "meaning_ko": "벤치마크, 기준치",
+    "sentence_en": "The marketing team used a benchmark to compare our campaign performance against industry leaders.",
+    "sentence_ko": "마케팅 팀은 업계 선두와 비교하기 위해 캠페인 성과를 벤치마크로 평가했습니다.",
+    "category": "marketing",
+    "difficulty": "high"
+  },
+  {
+    "id": 5,
+    "word": "viable",
+    "meaning_ko": "실행 가능한",
+    "sentence_en": "The new pricing model is viable only if the company keeps operating costs under control.",
+    "sentence_ko": "새 가격 모델은 회사가 운영 비용을 통제할 수 있을 때만 실행 가능합니다.",
+    "category": "finance",
+    "difficulty": "high"
+  },
+  {
+    "id": 6,
+    "word": "revenue",
+    "meaning_ko": "수익",
+    "sentence_en": "Quarterly revenue increased after the company expanded its online sales channels.",
+    "sentence_ko": "온라인 판매 채널을 확장한 뒤 분기 수익이 증가했습니다.",
+    "category": "finance",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "word": "expenditure",
+    "meaning_ko": "지출",
+    "sentence_en": "The finance department reduced unnecessary expenditure while keeping product quality stable.",
+    "sentence_ko": "재무 부서는 제품 품질을 유지하면서 불필요한 지출을 줄였습니다.",
+    "category": "finance",
+    "difficulty": "high"
+  },
+  {
+    "id": 8,
+    "word": "margin",
+    "meaning_ko": "이익률",
+    "sentence_en": "A higher sales volume helped improve the company margin despite rising shipping costs.",
+    "sentence_ko": "판매량 증가가 배송비 상승에도 불구하고 회사의 이익률 개선에 도움이 되었습니다.",
+    "category": "finance",
+    "difficulty": "high"
+  },
+  {
+    "id": 9,
+    "word": "forecast",
+    "meaning_ko": "예측하다, 전망",
+    "sentence_en": "The management team revised the sales forecast after a slowdown in client demand.",
+    "sentence_ko": "경영진은 고객 수요 둔화 이후 매출 전망을 수정했습니다.",
+    "category": "finance",
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "word": "inventory",
+    "meaning_ko": "재고",
+    "sentence_en": "The warehouse manager adjusted inventory levels to prevent stockouts during peak season.",
+    "sentence_ko": "창고 관리자는 성수기 동안 품절을 방지하기 위해 재고 수준을 조정했습니다.",
+    "category": "operations",
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "word": "expedite",
+    "meaning_ko": "신속히 처리하다",
+    "sentence_en": "The procurement team asked the supplier to expedite delivery of the replacement parts.",
+    "sentence_ko": "구매팀은 공급업체에 대체 부품의 배송을 신속히 처리해 달라고 요청했습니다.",
+    "category": "operations",
+    "difficulty": "high"
+  },
+  {
+    "id": 12,
+    "word": "compliance",
+    "meaning_ko": "준수, 규정 준수",
+    "sentence_en": "Compliance with tax regulations is essential before the company submits its annual report.",
+    "sentence_ko": "회사가 연간 보고서를 제출하기 전에 세법 준수는 필수입니다.",
+    "category": "legal",
+    "difficulty": "high"
+  },
+  {
+    "id": 13,
+    "word": "warranty",
+    "meaning_ko": "보증",
+    "sentence_en": "The service contract includes a warranty covering repairs for two years after installation.",
+    "sentence_ko": "서비스 계약에는 설치 후 2년 동안 수리를 보장하는 보증이 포함되어 있습니다.",
+    "category": "contract",
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "word": "acquisition",
+    "meaning_ko": "인수, 취득",
+    "sentence_en": "The acquisition of the regional distributor was expected to expand the firm's market reach.",
+    "sentence_ko": "지역 유통업체 인수는 회사의 시장 접근성을 확대할 것으로 예상되었습니다.",
+    "category": "business",
+    "difficulty": "high"
+  },
+  {
+    "id": 15,
+    "word": "retain",
+    "meaning_ko": "유지하다, retain하다",
+    "sentence_en": "The company launched a loyalty program to retain key clients during the economic slowdown.",
+    "sentence_ko": "회사는 경기 침체 기간 동안 핵심 고객을 유지하기 위해 충성 고객 프로그램을 시작했습니다.",
+    "category": "sales",
+    "difficulty": "high"
+  },
+  {
+    "id": 16,
+    "word": "liaison",
+    "meaning_ko": "연락 담당자, 협력 관계",
+    "sentence_en": "The project liaison coordinated updates between the client team and the internal department.",
+    "sentence_ko": "프로젝트 연락 담당자는 고객 팀과 내부 부서 사이의 업데이트를 조율했습니다.",
+    "category": "business",
+    "difficulty": "high"
+  },
+  {
+    "id": 17,
+    "word": "quota",
+    "meaning_ko": "할당량, 목표치",
+    "sentence_en": "The regional manager exceeded the quarterly sales quota for the second month in a row.",
+    "sentence_ko": "지역 관리자는 2개월 연속 분기 판매 목표를 초과 달성했습니다.",
+    "category": "sales",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "word": "campaign",
+    "meaning_ko": "캠페인",
+    "sentence_en": "The campaign focused on digital outreach to strengthen brand awareness among young professionals.",
+    "sentence_ko": "이 캠페인은 젊은 직장인들 사이에서 브랜드 인지도를 높이기 위해 디지털 홍보에 초점을 맞췄습니다.",
+    "category": "marketing",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "word": "brand",
+    "meaning_ko": "브랜드",
+    "sentence_en": "A consistent brand message helps customers recognize the company across multiple channels.",
+    "sentence_ko": "일관된 브랜드 메시지는 고객이 여러 채널에서 회사를 쉽게 인식하게 도와줍니다.",
+    "category": "marketing",
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "word": "target",
+    "meaning_ko": "목표, 타깃",
+    "sentence_en": "The executive team set a target of expanding exports to three new markets within one year.",
+    "sentence_ko": "임원진은 1년 안에 3개 새 시장으로 수출을 확대하는 목표를 설정했습니다.",
+    "category": "marketing",
+    "difficulty": "medium"
+  },
+  {
+    "id": 21,
+    "word": "consensus",
+    "meaning_ko": "합의",
+    "sentence_en": "After a lengthy discussion, the committee reached a consensus on the merger timeline.",
+    "sentence_ko": "오랜 논의 끝에 위원회는 인수 합병 일정에 대한 합의에 도달했습니다.",
+    "category": "meeting",
+    "difficulty": "high"
+  },
+  {
+    "id": 22,
+    "word": "agenda",
+    "meaning_ko": "의사 일정, 안건",
+    "sentence_en": "The meeting agenda included risk assessment, staffing needs, and next quarter priorities.",
+    "sentence_ko": "회의 안건에는 위험 평가, 인력 필요, 그리고 다음 분기 우선순위가 포함되었습니다.",
+    "category": "meeting",
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "word": "milestone",
+    "meaning_ko": "중요 이정표",
+    "sentence_en": "The project reached a major milestone when the pilot facility began operating successfully.",
+    "sentence_ko": "시범 시설이 성공적으로 가동되면서 프로젝트는 중요한 이정표를 달성했습니다.",
+    "category": "project",
+    "difficulty": "medium"
+  },
+  {
+    "id": 24,
+    "word": "liability",
+    "meaning_ko": "책임, 부채",
+    "sentence_en": "The legal team identified a potential liability related to product safety in the contract review.",
+    "sentence_ko": "법무 팀은 계약 검토 과정에서 제품 안전과 관련된 잠재적 책임을 발견했습니다.",
+    "category": "legal",
+    "difficulty": "high"
+  },
+  {
+    "id": 25,
+    "word": "invoice",
+    "meaning_ko": "청구서",
+    "sentence_en": "The accounting team issued an invoice after confirming the final shipment details.",
+    "sentence_ko": "회계팀은 최종 선적 정보를 확인한 뒤 청구서를 발행했습니다.",
+    "category": "finance",
+    "difficulty": "medium"
+  },
+  {
+    "id": 26,
+    "word": "allocation",
+    "meaning_ko": "배분",
+    "sentence_en": "The board approved a new allocation of resources to improve customer service response times.",
+    "sentence_ko": "이사회는 고객 서비스 응답 시간을 개선하기 위해 자원 배분을 새로 승인했습니다.",
+    "category": "operations",
+    "difficulty": "high"
+  },
+  {
+    "id": 27,
+    "word": "merger",
+    "meaning_ko": "합병",
+    "sentence_en": "The merger created stronger distribution capabilities and reduced duplicate operational costs.",
+    "sentence_ko": "합병은 더 강한 유통 역량을 만들고 중복되는 운영 비용을 줄였습니다.",
+    "category": "business",
+    "difficulty": "high"
+  },
+  {
+    "id": 28,
+    "word": "disruption",
+    "meaning_ko": "혼란, 중단",
+    "sentence_en": "Supply chain disruption delayed production schedules and forced the company to revise delivery dates.",
+    "sentence_ko": "공급망 혼란으로 생산 일정이 지연되었고 회사는 납기 일정을 수정해야 했습니다.",
+    "category": "operations",
+    "difficulty": "high"
+  },
+  {
+    "id": 29,
+    "word": "leverage",
+    "meaning_ko": "활용하다, 영향력을 행사하다",
+    "sentence_en": "The company plans to leverage its global network to expand into emerging markets.",
+    "sentence_ko": "회사는 글로벌 네트워크를 활용해 신흥 시장으로 확장할 계획입니다.",
+    "category": "strategy",
+    "difficulty": "high"
+  },
+  {
+    "id": 30,
+    "word": "strategy",
+    "meaning_ko": "전략",
+    "sentence_en": "The revised strategy prioritized long-term partnerships rather than short-term promotional gains.",
+    "sentence_ko": "수정된 전략은 단기적인 홍보 이득보다 장기적인 파트너십을 우선시했습니다.",
+    "category": "marketing",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,189 @@
+/* 전체 페이지 기본 설정 */
+:root {
+  --bg-color: #f4f7fb;
+  --card-color: #ffffff;
+  --primary-color: #2b6cb0;
+  --primary-dark: #1f4d7a;
+  --text-color: #1f2937;
+  --muted-color: #6b7280;
+  --border-color: #dfe7f1;
+  --success-color: #2e8b57;
+  --warning-color: #f59e0b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(180deg, #eef4ff 0%, var(--bg-color) 100%);
+  color: var(--text-color);
+}
+
+.app-container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 32px 20px 60px;
+}
+
+.topbar {
+  margin-bottom: 24px;
+}
+
+.topbar h1 {
+  margin: 0 0 8px;
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  color: var(--primary-dark);
+}
+
+#today-label {
+  margin: 0;
+  color: var(--muted-color);
+  font-size: 1rem;
+}
+
+.summary-box {
+  background: var(--card-color);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 16px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  box-shadow: 0 8px 20px rgba(31, 77, 122, 0.06);
+  margin-bottom: 24px;
+}
+
+#progress-text {
+  font-weight: 700;
+  color: var(--primary-dark);
+}
+
+#complete-btn {
+  border: none;
+  background: var(--primary-color);
+  color: white;
+  padding: 12px 18px;
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+#complete-btn:hover {
+  background: var(--primary-dark);
+}
+
+#complete-btn:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+.word-list {
+  display: grid;
+  gap: 20px;
+}
+
+.word-card {
+  background: var(--card-color);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.04);
+}
+
+.word-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.word-name {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: var(--primary-dark);
+}
+
+.word-tag {
+  display: inline-block;
+  background: #eaf3ff;
+  color: var(--primary-color);
+  border-radius: 999px;
+  padding: 6px 10px;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.meaning {
+  margin: 0 0 14px;
+  font-size: 1.1rem;
+  color: var(--text-color);
+}
+
+.example-box {
+  margin-top: 10px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border-color);
+}
+
+.example-label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--muted-color);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.example {
+  margin: 0;
+  line-height: 1.7;
+}
+
+.example.en {
+  color: var(--text-color);
+}
+
+.example.ko {
+  color: var(--muted-color);
+}
+
+.check-row {
+  margin-top: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.check-row label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 600;
+  color: var(--primary-dark);
+}
+
+.check-row input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--success-color);
+}
+
+@media (max-width: 640px) {
+  .summary-box,
+  .word-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  #complete-btn {
+    width: 100%;
+  }
+}
